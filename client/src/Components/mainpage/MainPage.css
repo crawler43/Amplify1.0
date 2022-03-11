@@ -1,0 +1,81 @@
+.test{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+}
+.btn-logout{
+    background-color: red;
+    height:60px;
+    width:180px;
+    margin-top:10px;
+    margin-left:30%;
+    font-size:30px;
+    color:white;
+    border-radius: 10px;
+}
+
+.music-card{
+    margin-left:20px;
+    background-color:rgb(64, 55, 197);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    height:200px;
+    width:450px;
+}
+.music-card-display >h3{
+    color:white;
+    padding-left:10px;
+    padding-right:10px;
+    margin-top:10px;
+    margin-bottom:25px;
+    margin-left:10px;
+    word-wrap: break-word;
+    font-size:20px;
+
+}
+.music-card-display{
+    padding-bottom: 10px;
+    align-items:center;
+    justify-content:center;
+}
+.music-card-image>img{
+    height:120px;
+    width:120px;
+    padding-left:10px;
+}
+audio{
+    width:400px;
+    border-radius: 10px;
+    margin-left:10px;
+    margin-right:10px;
+
+}
+
+.addButton{
+    background-color:rgb(36, 78, 155);
+    border-radius: 10px;
+    height:40px;
+    width:200px;
+    margin-left:20px;
+}
+a{
+    color:white;
+}
+.modify-btn{
+    background-color:rgb(39, 48, 179);
+    margin-left:20px;
+    margin-top:5px;
+    margin-right:10px;
+    color:white;
+    height:50px;
+    width:90px;
+    border-radius: 10px;
+    font-size:30px;
+}
+.modify-btn > #icon{
+    margin-bottom:10px;
+}

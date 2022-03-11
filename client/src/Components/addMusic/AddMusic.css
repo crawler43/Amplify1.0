@@ -1,0 +1,21 @@
+.header{
+    color:white;
+    font-size:60px;
+    background-color:rgb(7, 26, 77);
+    height:80px;
+}
+label{
+    font-size:30px;
+    color:white;
+}
+.redirect{
+   background-color:rgb(49, 148, 214);
+   border-radius:10px;
+   height:40px;
+   width:190px;
+   margin-left:45vw;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
